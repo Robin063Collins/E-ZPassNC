@@ -38,8 +38,7 @@ The project emphasizes clean code, modular structure, and scalability, making it
 
 **Name:** Your A/C Name  
 **Email:** youraccount@email.com  
-**Website:** E-ZPassNC  
-
+**Website:** [E-ZPassNC](https://www.ez-passnc.com)
 ### Author Bio
 
 The author is a passionate full-stack developer with strong expertise in modern JavaScript frameworks, especially React. With years of experience in building scalable web applications, the author enjoys creating clean UI components, writing maintainable code, and mentoring new developers. Known for a helpful and collaborative nature, the author actively contributes to open-source projects and believes in continuous learning and community growth.
